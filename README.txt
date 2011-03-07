@@ -1,9 +1,3 @@
-<head>
-  <title>subsCorrector</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-</head>
-<body>
-
 Subs Corrector es un pequeño script que hice cuando empecé a aprender Ruby.
 
 Recibe el nombre de un fichero por consola (sin el .srt) y crea otro fichero con el tag "_corregido" donde se han añadido a todas las líneas de subtítulo los segundos
@@ -12,8 +6,3 @@ correspondientes a la cantidad que has introducido, sincronizando los subs en aq
 Él sólo se encarga de sumar o restar minutos/horas en caso de que haya cambio.
 
 Es muy básico pero le tengo cariño porque fue casi que lo primero que hice en Ruby :P
-
-</body>
-</html>
-
-
