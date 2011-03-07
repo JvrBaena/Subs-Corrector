@@ -1,12 +1,11 @@
-#!/usr/bin/env ruby
-# encoding: utf-8
+# encoding: UTF-8
 
 puts "Introduce el fichero a retocar"
 file=gets.chomp
 
 
 
-puts "Introduce la cantidad de segundos que quieres añadir para sincronizar el audio."
+puts "Introduce la cantidad de segundos que quieres aÃ±adir para sincronizar el audio."
 secs=gets.chomp
 
 
